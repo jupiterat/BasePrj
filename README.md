@@ -1,2 +1,2 @@
 # BasePrj
-Create base structure for app
+Create base structure for android application
